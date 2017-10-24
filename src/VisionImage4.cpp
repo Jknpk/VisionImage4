@@ -35,6 +35,7 @@ int main(int argc, char* argv[])
 
     //------------------------------Checked preconditions-----------------------
     //------------------------------Main Program starts-------------------------
+    cout << "Hello" << endl;
 
     imshow("Original", img);
     waitKey();
